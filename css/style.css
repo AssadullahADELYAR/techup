@@ -27,6 +27,11 @@ body {
 ion-icon {
   font-size: 4rem;
 }
+.selected {
+  background: linear-gradient(135deg, #23bdb8, #43e794);
+  border-radius: 5px 5px 0 0;
+  transform: translateY(-9px);
+}
 
 /* ------------------- SECTION HEADER----------------- */
 
