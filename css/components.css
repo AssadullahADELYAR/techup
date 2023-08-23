@@ -122,6 +122,14 @@ a {
     max-width: 100%;
     height: auto;
   }
+  .hero-image img,
+  .hosting-image img,
+  .design-image img,
+  .form-image img {
+    display: block;
+    width: 65%;
+    margin: 0 auto;
+  }
   .col-2 {
     flex: 1 1 350px;
     padding: 1.5rem;
